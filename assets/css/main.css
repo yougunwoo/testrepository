@@ -216,7 +216,6 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
-		text-align: center;
 	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
@@ -2640,7 +2639,7 @@ input, select, textarea {
 	  }
 	  
 	  .file-upload {
-		width: 600px;
+		width: 100%;
 		margin: 0 auto;
 		padding: 20px;
 	  }
@@ -2693,7 +2692,6 @@ input, select, textarea {
 		margin-top: 20px;
 		border: 2px dashed #35465d;
 		position: relative;
-		display: inline-block;
 	  }
 	  
 	  .image-dropping,
