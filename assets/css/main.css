@@ -216,6 +216,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
+		text-align: center;
 	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
@@ -2692,6 +2693,7 @@ input, select, textarea {
 		margin-top: 20px;
 		border: 2px dashed #35465d;
 		position: relative;
+		display: inline-block;
 	  }
 	  
 	  .image-dropping,
